@@ -32,11 +32,17 @@ It demonstrates real-world front-end design skills, and reflects modern web UI/U
 
 | Desktop View | Mobile View |
 | ------------ | ----------- |
-| ![](UI-UX/public/Screenshot1.PNG) | ![](UI-UX/public/Screenshot6.PNG) |
-| ![](UI-UX/public/Screenshot2.PNG) | ![](UI-UX/public/Screenshot7.PNG) |
-| ![](UI-UX/public/Screenshot3.PNG) | ![](UI-UX/public/Screenshot8.PNG) |
-| ![](UI-UX/public/Screenshot4.PNG) | ![](UI-UX/public/Screenshot9.PNG) |
-| ![](UI-UX/public/Screenshot5.PNG) | ![](UI-UX/public/Screenshot10.PNG) |
+| ![](UI-UX/public/Screenshot1.PNG) 
+| ![](UI-UX/public/Screenshot2.PNG) | 
+| ![](UI-UX/public/Screenshot3.PNG) | 
+| ![](UI-UX/public/Screenshot4.PNG) | 
+| ![](UI-UX/public/Screenshot5.PNG) | 
+| ![](UI-UX/public/Screenshot6.PNG) |
+![](UI-UX/public/Screenshot7.PNG) |
+![](UI-UX/public/Screenshot8.PNG) |
+ ![](UI-UX/public/Screenshot9.PNG) |
+ ![](UI-UX/public/Screenshot10.PNG) |
+
 
 ---
 
