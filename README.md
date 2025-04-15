@@ -32,11 +32,11 @@ It demonstrates real-world front-end design skills, and reflects modern web UI/U
 
 | Desktop View | Mobile View |
 | ------------ | ----------- |
-| ![Screenshot1](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot1.PNG) | ![Screenshot6](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot6.PNG) |
-| ![Screenshot2](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot2.PNG) | ![Screenshot7](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot7.PNG) |
-| ![Screenshot3](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot3.PNG) | ![Screenshot8](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot8.PNG) |
-| ![Screenshot4](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot4.PNG) | ![Screenshot9](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot9.PNG) |
-| ![Screenshot5](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot5.PNG) | ![Screenshot10](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/main/Screenshot10.PNG) |
+| ![Screenshot1](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot1.PNG) | ![Screenshot6](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot6.PNG) |
+| ![Screenshot2](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot2.PNG) | ![Screenshot7](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot7.PNG) |
+| ![Screenshot3](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/publicScreenshot3.PNG) | ![Screenshot8](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot8.PNG) |
+| ![Screenshot4](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot4.PNG) | ![Screenshot9](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot9.PNG) |
+| ![Screenshot5](https://raw.githubusercontent.com/RatulSen555/Modern-UI-UX-Project/UI-UX/public/Screenshot5.PNG) | ![Screenshot10](https://raw.githubusercontent.com/RatulSen555Modern-UI-UX-Project/UI-UX/public/Screenshot10.PNG) |
 
 
 ---
